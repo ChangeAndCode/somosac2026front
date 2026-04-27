@@ -101,7 +101,7 @@ export default function Nav() {
             </Link>
             <span className="hidden lg:inline-block">|</span>
             <a
-              href="https://somosunionac.org/"
+              href="https://darksalmon-lark-569062.hostingersite.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-[var(--primary)]"
