@@ -101,7 +101,7 @@ export default function Nav() {
             </Link>
             <span className="hidden lg:inline-block">|</span>
             <a
-              href="https://darksalmon-lark-569062.hostingersite.com/"
+              href="https://sondeos.somosunionac.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-[var(--primary)]"
@@ -203,7 +203,7 @@ export default function Nav() {
                   Transparencia
                 </Link>
                 <a
-                  href="https://darksalmon-lark-569062.hostingersite.com/"
+                  href="https://sondeos.somosunionac.org/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 px-3 py-2 rounded hover:bg-black/5"
